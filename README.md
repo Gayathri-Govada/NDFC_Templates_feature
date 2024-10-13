@@ -1,0 +1,2 @@
+You can add, edit, or delete templates that are configured across different Cisco Nexus, IOS XE, IOS XR, and Cisco MDS platforms using the Cisco Nexus Dashboard Fabric Controller. The following parameters are displayed for each template that is configured on Cisco Nexus Dashboard Fabric Controller. Templates support JavaScript. You can use the JavaScript function in a template to perform arithmetic operations and string manipulations in the template syntax.
+
